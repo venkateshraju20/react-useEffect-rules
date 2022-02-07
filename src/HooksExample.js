@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import { myData } from "../data/hookData";
 
 export default function HooksExample() {
   const [data, setData] = useState([
